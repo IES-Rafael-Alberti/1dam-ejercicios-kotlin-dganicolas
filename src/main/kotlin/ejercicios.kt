@@ -167,6 +167,7 @@ fun ejercicio14() {
         println("eres grupo B")
     }
 }
+
 fun ejercicio15() {
     try {
         print("dame los puntos del empleado: ")
