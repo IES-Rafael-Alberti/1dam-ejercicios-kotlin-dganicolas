@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38fdc9c9-efd1-4fbc-ac6d-9da154b0b297" name="Changes" comment="ddd" />
+    <list default="true" id="38fdc9c9-efd1-4fbc-ac6d-9da154b0b297" name="Changes" comment="ddd">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicios/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/kotlin/ejercicios.kt" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicios/src/main/kotlin/ejercicios.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704800009120</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ddd">
+      <option name="closed" value="true" />
+      <created>1704800126432</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704800126432</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
