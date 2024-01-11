@@ -823,7 +823,7 @@ fun mostrarRepetidos(alumnosPrimaria:MutableSet<String>, alumnosSecundaria: Muta
 }
 fun mostrarNoRepetidosPrimaria(alumnosPrimaria:MutableSet<String>, alumnosSecundaria: MutableSet<String>) {
     val mostrar = alumnosPrimaria subtract alumnosSecundaria
-    println("Los nombres que no se repiten en primaria son $mostrar")
+    println("Los  nombres que no se repiten en primaria son $mostrar")
     if (mostrar == emptySet<String>()) {
         println("Todos los nombres de primaria están incluidos en secundaria.")
     } else
