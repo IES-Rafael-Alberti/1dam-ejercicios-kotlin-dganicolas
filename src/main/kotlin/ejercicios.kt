@@ -827,7 +827,7 @@ fun mostrarNoRepetidosPrimaria(alumnosPrimaria:MutableSet<String>, alumnosSecund
     if (mostrar == emptySet<String>()) {
         println("Todos los nombres de primaria están incluidos en secundaria.")
     } else
-        println("No todos loawfergoawfrgwdfgjnarsgfs nombres de primaria están incluidos en secundaria.")
+        println("No todos los nombres de primaria están incluidos en secundaria.")
 }
 
 fun u3p3ej3() {
