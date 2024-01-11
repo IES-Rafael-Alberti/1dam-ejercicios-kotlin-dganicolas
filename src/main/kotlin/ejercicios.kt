@@ -796,7 +796,7 @@ fun ejercicio45() {
     val Primarial = mutableSetOf<String>()
     val Secundarial = mutableSetOf<String>()
     do {
-        println("Escribe x para salir.")
+        println("Escribe  x para salir.")
         print("Introduce el nombre de pila del alumno de primaria: ")
         val Primaria = readln()
         if (Primaria != "x") {
