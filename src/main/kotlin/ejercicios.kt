@@ -804,7 +804,7 @@ fun ejercicio45() {
         }
     }while (Primaria != "x")
     do {
-        println("Escribe x para salir.")
+        println("Escribe x para salir. ")
         print("Introduce el nombre de pila del alumno de secundaria: ")
         val Secundaria = readln()
         if (Secundaria != "x") {
